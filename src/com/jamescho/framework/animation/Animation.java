@@ -1,6 +1,6 @@
 package com.jamescho.framework.animation;
 
-import java.awt.*;
+import java.awt.Graphics;
 
 public class Animation {
     private Frame[] frames;

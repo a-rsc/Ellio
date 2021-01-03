@@ -1,8 +1,8 @@
 package com.jamescho.game.model;
 
-import com.jamescho.framework.util.RandomNumberGenerator;
-
 import java.awt.Rectangle;
+
+import com.jamescho.framework.util.RandomNumberGenerator;
 
 public class Block {
     private float x;

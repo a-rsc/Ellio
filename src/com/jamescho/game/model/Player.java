@@ -1,9 +1,9 @@
 package com.jamescho.game.model;
 
+import java.awt.Rectangle;
+
 import com.jamescho.game.main.GameMain;
 import com.jamescho.game.main.Resources;
-
-import java.awt.Rectangle;
 
 public class Player {
     private float x;

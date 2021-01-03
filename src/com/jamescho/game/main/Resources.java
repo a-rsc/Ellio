@@ -2,8 +2,8 @@ package com.jamescho.game.main;
 
 import java.applet.Applet;
 import java.applet.AudioClip;
-import java.awt.Color;
 import java.awt.image.BufferedImage;
+import java.awt.Color;
 import java.net.URL;
 
 import javax.imageio.ImageIO;

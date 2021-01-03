@@ -1,10 +1,10 @@
 package com.jamescho.game.state;
 
-import com.jamescho.game.main.Resources;
-
 import java.awt.Graphics;
 import java.awt.event.KeyEvent;
 import java.awt.event.MouseEvent;
+
+import com.jamescho.game.main.Resources;
 
 public class LoadState extends State {
 

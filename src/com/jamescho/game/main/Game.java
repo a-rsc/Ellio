@@ -1,11 +1,13 @@
 package com.jamescho.game.main;
 
+import java.awt.Color;
+import java.awt.Dimension;
+import java.awt.Graphics;
+import java.awt.Image;
+import javax.swing.JPanel;
+
 import com.jamescho.framework.util.InputHandler;
 import com.jamescho.game.state.*;
-
-import java.awt.*;
-
-import javax.swing.JPanel;
 
 @SuppressWarnings("serial")
 

@@ -1,10 +1,10 @@
 package com.jamescho.game.state;
 
-import com.jamescho.game.main.GameMain;
-
 import java.awt.Graphics;
 import java.awt.event.KeyEvent;
 import java.awt.event.MouseEvent;
+
+import com.jamescho.game.main.GameMain;
 
 public abstract class State {
 

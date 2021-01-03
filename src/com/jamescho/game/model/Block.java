@@ -52,6 +52,12 @@ public class Block {
 
     public void onCollide(Player p) {
         visible = false;
+        // Cuando el personaje colisiona con un bloque, debe retroceder 30 píxeles. Esto se gestionará desde el
+        // método pushBack() del objeto Player. Cuando esto sucede, el bloque que ha empujado al personaje no debería
+        // poder volver a colisionar con él. Hay muchas formas de implementar este comportamiento. Podríamos adoptar
+        // el enfoque tradicional de los juegos clásicos de plataformas: hacer que el personaje parpadee y volverlo
+        // inmune a las colisiones durante un tiempo breve. Sin embargo, el juego gestiona esto volviendo invisible
+        // el bloque para que no pueda dañar al personaje en repetidas ocasiones.
         p.pushBack(30);
     }
 

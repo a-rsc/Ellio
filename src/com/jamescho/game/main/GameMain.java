@@ -3,7 +3,7 @@ package com.jamescho.game.main;
 import javax.swing.JFrame;
 
 public class GameMain {
-    private static final String GAME_TITLE = "Ellio (Chapter 6) by Álvaro Rodríguez Santa Cruz";
+    private static final String GAME_TITLE = "Ellio (Chapter 6) by ARS";
     public static final int GAME_WIDTH = 800;
     public static final int GAME_HEIGHT = 450;
     // https://www.ecodeup.com/metodos-variables-y-bloques-static-en-java-con-ejemplos/

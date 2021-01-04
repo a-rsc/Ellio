@@ -28,7 +28,8 @@ public class Player {
         this.width = width;
         this.height = height;
 
-        ground = new Rectangle(0, Resources.grass.getHeight(), GameMain.GAME_WIDTH, GameMain.GAME_HEIGHT);
+        ground = new Rectangle(0, GameMain.GAME_HEIGHT - Resources.grass.getHeight(), GameMain.GAME_WIDTH,
+                Resources.grass.getHeight());
         rect = new Rectangle();
         duckRect = new Rectangle();
         isAlive = true;
@@ -45,13 +46,12 @@ public class Player {
         }
 
         if(!isGrounded()) {
-            velY += ACCEL_GRAVITY*delta;
+            velY += ACCEL_GRAVITY * delta;
         }else {
-            y = 406 - (float)height;
+            y = 406 - height;
             velY = 0;
         }
-
-        y += velY*delta;
+        y += velY * delta;
         updateRects();
     }
 

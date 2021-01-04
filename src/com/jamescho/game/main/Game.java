@@ -105,7 +105,7 @@ public class Game extends JPanel implements Runnable {
             gameImage = createImage(gameWidth, gameHeight);
         }
         Graphics g = gameImage.getGraphics();
-        g.fillRect(0, 0, gameWidth, gameHeight);
+        g.clearRect(0, 0, gameWidth, gameHeight);
     }
 
     public void exit() {

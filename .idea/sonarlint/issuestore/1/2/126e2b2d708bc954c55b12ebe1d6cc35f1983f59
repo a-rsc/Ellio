@@ -1,12 +1,7 @@
 
-œ
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜ó¨¯øÿÿÿÿ
-—
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´¡Úâ
-œ
-java:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ªÑÄÕÿÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(­áÙø
-C
-java:S1185 "(Remove this method to simply inherit it.(ÆÓÈùÿÿÿÿ
-U
-java:S1161 ":Add the "@Override" annotation above this method signature(ÆÓÈùÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(­ùÕ•8®äÍÓì.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(®èÿşÿÿÿÿ8 äÔÓì.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(¡ğİ¶8§îÎÓì.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(—Õ½‘şÿÿÿÿ8¶ÔÌÓì.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(å¤ğÿÿÿÿÿ8Ş¹ÍÓì.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ã³¢ôÿÿÿÿÿ8úğÉÓì.

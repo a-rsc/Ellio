@@ -1,0 +1,13 @@
+
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(å¤ğÿÿÿÿÿ8´ğïÓì.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ã³¢ôÿÿÿÿÿ8İŞîÓì.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(®èÿşÿÿÿÿ8—ÎñÓì.
+R
+java:S1191
+"5Use classes from the Java API instead of Sun classes.(¤œĞ8ãÈïÒì.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(¡ğİ¶8²òÓì.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(­ùÕ•8Ö´ğÓì.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(—Õ½‘şÿÿÿÿ8è½ïÓì.
+Y
+java:S1128
+"<Remove this unused import 'com.sun.istack.internal.NotNull'.(¤œĞ8ãÈïÒì.

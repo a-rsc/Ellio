@@ -1,0 +1,18 @@
+
+@
+java:S1659"$Declare "cloud2" on a separate line.(ÉÈ×8Ç£ïËì.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ã³¢ôÿÿÿÿÿ8‘¹ãÓì.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(­ùÕ•8ÿ«èÓì.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(—Õ½‘şÿÿÿÿ8ÌäÓì.
+v
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(º©¼˜8ÜÌì.
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(¡ğİ¶8ÁœéÓì.
+[	java:S106—"9Replace this use of System.out or System.err by a logger.(®èÿşÿÿÿÿ8ŒíÓì.
+f
+java:S2184'"DCast one of the operands of this subtraction operation to a "float".(Á½Ãúÿÿÿÿ8€ñúÌì.
+f
+java:S2184 "DCast one of the operands of this subtraction operation to a "float".(ğõµ‰şÿÿÿÿ8€ñúÌì.
+n
+java:S1871F"LThis branch's code block is the same as the block for the branch on line 68.(æ‹Òûÿÿÿÿ8ŒÅ¯Ìì.
+i
+java:S2184'"GCast one of the operands of this multiplication operation to a "float".(Á½Ãúÿÿÿÿ8€ñúÌì.

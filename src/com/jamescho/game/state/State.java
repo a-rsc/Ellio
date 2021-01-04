@@ -18,8 +18,7 @@ public abstract class State {
         El bucle del juego invocará el método update() del estado acutal en cada frame (fotograma). Lo utilizaremos
         para actualizar todos los objetos de cada juego en el interior del mismo estado.
      */
-    // public abstract void update();
-    public abstract void update(float delta);
+     public abstract void update(float delta);
 
     /*
         El método render() del estado actual será llamado por el bucle del juego en cada frame. Lo utilizaremos para
@@ -43,11 +42,8 @@ public abstract class State {
         El método onKeyPress() del estado actual será invocado cuando el jugador pulse una tecla de su teclado.
         Recibirá información sobre el evento de pulsación de la tecla, tal como la identidad de la tecla pulsada. Utilizaremos este método para hacer cambios en nuestro juego, por ejemplo mover el personaje.
     */
-    public void onKeyPress(KeyEvent e) {
-        if(e.getKeyCode() == KeyEvent.VK_ESCAPE){
-            GameMain.sGame.exit();
-        }
-    }
+
+    public abstract void onKeyPress(KeyEvent e);
 
     /*
         El método setCurrentState() acepta un objeto State de destino y lo pasa al método setCurrentState() de nuestro objeto Game, que lo almacena

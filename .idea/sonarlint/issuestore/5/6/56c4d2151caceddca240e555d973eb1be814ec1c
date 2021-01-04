@@ -1,15 +1,15 @@
 
 r
-java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(“úÛñıÿÿÿÿ
-n
-java:S1450"YRemove the "gameThread" field and declare it as a local variable in the relevant methods.(÷Şš
-P
-java:S1948".Make "inputHandler" transient or serializable.(õ×ŒĞüÿÿÿÿ8ˆ†Ø«ì.
-F
-java:S1948"+Make "gameImage" transient or serializable.(Ø´ÚÛùÿÿÿÿ
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(“úÛñıÿÿÿÿ
 A
-java:S1948",Make "gameThread" transient or serializable.(÷Şš
-\
-java:S2142V"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+java:S1948",Make "gameThread" transient or serializable.(÷Şš
+M
+java:S1948"+Make "gameImage" transient or serializable.(Ø´ÚÛùÿÿÿÿ8ÁíÆËì.
 P
-java:S1948".Make "currentState" transient or serializable.(“úÛñıÿÿÿÿ8ˆ†Ø«ì.
+java:S1948".Make "currentState" transient or serializable.(“úÛñıÿÿÿÿ8ï‚ÅËì.
+n
+java:S1450"YRemove the "gameThread" field and declare it as a local variable in the relevant methods.(÷Şš
+\
+java:S2142X"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+P
+java:S1948".Make "inputHandler" transient or serializable.(õ×ŒĞüÿÿÿÿ8ï‚ÅËì.

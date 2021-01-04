@@ -3,11 +3,11 @@ package com.jamescho.game.main;
 import javax.swing.JFrame;
 
 public class GameMain {
-    private static final String GAME_TITLE = "Ellio (Chapter 6)";
+    private static final String GAME_TITLE = "Ellio (Chapter 6) by Álvaro Rodríguez Santa Cruz";
     public static final int GAME_WIDTH = 800;
     public static final int GAME_HEIGHT = 450;
     // https://www.ecodeup.com/metodos-variables-y-bloques-static-en-java-con-ejemplos/
-    // Una variable estÃ¡tica (static) en Java es una variable que pertenece a la clase en que fue declarada y se inicializa solo una vez al inicio de la ejecuciÃ³n del programa, la caracterÃ­stica principal de este tipo de variables es que se puede acceder directamente con el nombre de la clase sin necesidad de crear un objeto.
+    // Una variable estática (static) en Java es una variable que pertenece a la clase en que fue declarada y se inicializa solo una vez al inicio de la ejecución del programa, la característica principal de este tipo de variables es que se puede acceder directamente con el nombre de la clase sin necesidad de crear un objeto.
     public static Game sGame, s2Game;
 
     public static void main(String[] args) {

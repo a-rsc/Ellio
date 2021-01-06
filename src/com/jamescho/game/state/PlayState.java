@@ -96,7 +96,7 @@ public class PlayState extends State {
         if(isPaused) {
 //            g.setColor(Color.DARK_GRAY);
             g.setFont(pauseFont);
-            g.drawString("Pause", 390, 175);
+            g.drawString("Pause", 380, 175);
         }
     }
 

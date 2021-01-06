@@ -29,5 +29,3 @@ W
 .src/com/jamescho/game/state/GameOverState.java,5\4\54af9a56a40fa20808c4dbc460a927ae74b8a381
 Z
 *src/com/jamescho/game/state/PlayState.java,7\9\7937ef233ef28f927e72f614520289249837602b
-[
-+src/com/jamescho/game/state/PauseState.java,2\c\2cfac7aabd3ba486c08638358449939bd4ca8520
